@@ -323,4 +323,5 @@ PRODUCT_PACKAGES += \
     OpenCamera \
     SimpleKeyboard \
     Superuser \
-    RethinkDNS
+    RethinkDNS \
+    additional_repos.xml
