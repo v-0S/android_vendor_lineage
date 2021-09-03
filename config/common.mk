@@ -324,4 +324,7 @@ PRODUCT_PACKAGES += \
     SimpleKeyboard \
     Superuser \
     RethinkDNS \
-    additional_repos.xml
+    additional_repos.xml \
+    MaterialFiles \
+    TrebleShot \
+    AuroraServices
