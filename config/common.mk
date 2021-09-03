@@ -322,4 +322,5 @@ PRODUCT_PACKAGES += \
     AuroraStore \
     OpenCamera \
     SimpleKeyboard \
-    TEL
+    Superuser \
+    RethinkDNS
